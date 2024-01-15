@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Oscar Mutwiri</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscarm03&label=Profile%20views&color=0e75b6&style=flat" alt="oscarm03" /> </p>
 
 - 🌱 I’m studying at **ALX Africa: ALX Software Engineering (ALX SE)**
@@ -15,6 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscarm03&show_icons=true&locale=en&layout=compact" alt="oscarm03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarm03&show_icons=true&locale=en" alt="oscarm03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarm03&" alt="oscarm03" /></p>
-
